@@ -1,0 +1,40 @@
+{
+  "total_interactions": 55,
+  "users": {
+    "6509631910": {
+      "interactions": 48,
+      "first_interaction": 1747437882.4898846,
+      "last_interaction": 1747456536.1132717
+    },
+    "6652015416": {
+      "interactions": 5,
+      "first_interaction": 1747437883.5106287,
+      "last_interaction": 1747437884.0316987
+    },
+    "7764822504": {
+      "interactions": 2,
+      "first_interaction": 1747437884.167935,
+      "last_interaction": 1747437884.178669
+    }
+  },
+  "groups": {},
+  "commands": {
+    "start": 6,
+    "help": 6,
+    "language": 2,
+    "users": 2,
+    "database": 3
+  },
+  "searches": {},
+  "last_updated": 1747456536.1132717,
+  "users_count": 3,
+  "groups_count": 0,
+  "top_commands": {
+    "start": 6,
+    "help": 6,
+    "database": 3,
+    "language": 2,
+    "users": 2
+  },
+  "top_searches": {}
+}
